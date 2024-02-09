@@ -2,14 +2,14 @@
 The plugin allows you to limit how many groups can claim land.
 
 ## Config file:
-owner: 10
-admin: 6
-emperor: 6
-king: 5
-lord: 4
-noble: 3
-helper: 3
-default: 1
+owner: 10<br>
+admin: 6<br>
+emperor: 6<br>
+king: 5<br>
+lord: 4<br>
+noble: 3<br>
+helper: 3<br>
+default: 1<br>
 
 ## NOTE! The arrangement of the groups must go from the largest number to the smallest, if they are the same, then one group is placed next to the other.
 
